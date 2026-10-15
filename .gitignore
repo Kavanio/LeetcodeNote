@@ -7,10 +7,8 @@
 ehthumbs.db
 Thumbs.db
 
-# Obsidian workspace cache & layout (避免多端切换窗口状态产生冲突)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache/
+# Obsidian app configurations & cache
+.obsidian/
 
 # Obsidian trash folder
 .trash/
